@@ -1,0 +1,1 @@
+在任意一个目录下创建一个文件，用git init进行git控制该目录，在该目录下git add 文件名，在进行配置git config --global user.name "YourName"； git config --global user.email "YourEmail@xxx.com"，完成配置后git commit -m "注释"进行提交，git remote add littlename 仓库链接 连接远程仓库，git push littlename master 提交到远程仓库。
